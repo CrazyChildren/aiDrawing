@@ -2,7 +2,7 @@
 
 Stable Diffusion webui通常指代[AUTOMATIC1111的webUI版本](https://github.com/AUTOMATIC1111/stable-diffusion-webui)，它在stabilityAI官方的stable diffusion之上封装了一层用户图像界面方便操作。加了中文插件的用户界面长这样：
 
-<figure><img src="https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=Mzc5OGJjNDMyZTg3NGUwNjg4ZTY2OTY2Njc3ZjkzOGVfWmNWNkgydFJXWFFiZE85bEF5RzZ5NlBoeU40ZzJoN2hfVG9rZW46Q0JHMWJDSmd0b1lnQ1F4N2JNdmNSbloybkhiXzE2ODM2MTgyMzk6MTY4MzYyMTgzOV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=OTRmYWVmYjM1MjM4ZDQwNGFlY2IzMTY3Yzk4NTQ5ZjJfYVg0aGJhRFBJR2hieEg1dDd5dFR2UWZaZ1Y3cDAxdkZfVG9rZW46Q0JHMWJDSmd0b1lnQ1F4N2JNdmNSbloybkhiXzE2ODM2MjUzMzc6MTY4MzYyODkzN19WNA" alt=""><figcaption></figcaption></figure>
 
 可以看到比前面的demo多了很多功能，但是主要也是输入咒语和反向提示词来生成，**Stable Diffusion最麻烦的就是部署了**，克服了这关后面就是坦途大道。
 

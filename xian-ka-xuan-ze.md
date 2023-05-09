@@ -35,7 +35,7 @@ CPU主要被设计于多核多线程的调度任务，所以可以良好掌控�
 
 算力是衡量运算速度的参数，算力越高运算越快，如下左图就是各个芯片算力天梯图，越高算力越大。右图是具体算力对比。可以从右图看到4090（100）比3080（54）高了一倍左右，这意味着如果3080要画4s跑一张图，4090只需要2s左右。
 
-![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=NWE5MjEyZjFlNGYzMzM0ZmNjMDcyMDg2ZmE2ZjRiYjVfV3hXbVdKUFJiT3ZLYUxsN3RvR0haSERPQUJPMFdqdWVfVG9rZW46UFFHYmJqSnNnb1d3NkZ4MEJmMmNFV3Z2bnhnXzE2ODM2MTkxMTE6MTY4MzYyMjcxMV9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=MjgwN2JmN2UzOTk2MWViNzNjMWQ2Y2FmOWEwNjAyYWJfYVZaY25kNnRTVm9TajhKV250Y1hrcGlNcjZ4aHRvWjhfVG9rZW46QUI3N2JFVEdDb0pVazF4UzU5amNndkoybnRYXzE2ODM2MTkxMTE6MTY4MzYyMjcxMV9WNA)
+![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmE0YzU1ZjkzYmIwOWUyMjcxZTg3MWQ0MGE3YzlmNWNfU2hya1l5c292aEx6cXZUYWhxSG1tSk8wcWdGNE9oWHNfVG9rZW46UFFHYmJqSnNnb1d3NkZ4MEJmMmNFV3Z2bnhnXzE2ODM2MjU1OTg6MTY4MzYyOTE5OF9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=MTNiZDQzZDYwZGI4ZmU1ZTdjZjkwN2Y2MThiOTIxN2ZfWkg0Q1NUMmdTZVlEenVwNFpOcW1teVlsS2FMeGd2MndfVG9rZW46QUI3N2JFVEdDb0pVazF4UzU5amNndkoybnRYXzE2ODM2MjU1OTg6MTY4MzYyOTE5OF9WNA)
 
 #### 内存大小（显存）
 
@@ -83,7 +83,7 @@ CPU主要被设计于多核多线程的调度任务，所以可以良好掌控�
 
 所以好好利用下图可以很好地挑选显卡，这张图片也是从 [【4K】二手显卡选购指南，2023/5月 (价格篇)](https://b23.tv/kpu1a1W)这个视频中截取出来的，但这是二手显卡的价格-算力对比图，推荐大家还是购买全新显卡。
 
-<figure><img src="https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=YTE0ZTEyMTBhNGY3NTEzNjk5NzEwYThjOTg1MjgyMTFfVUE1YkFxSjltYzZDTEQyRzc5YUdneTkxQ3lHMlFrc1JfVG9rZW46WDZyQWJWR01Hb1V6TjV4Sms4cmNZaTZabnZkXzE2ODM2MTkxMTE6MTY4MzYyMjcxMV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=YTA5YThhODA3YWJlZWQ0YWUzZjFjODRjMjcwMDNkM2NfSzRTV0hqSDVnb0dobHdZSnlQMDlkRk4wYlR4TWJEdDBfVG9rZW46WDZyQWJWR01Hb1V6TjV4Sms4cmNZaTZabnZkXzE2ODM2MjU2MTU6MTY4MzYyOTIxNV9WNA" alt=""><figcaption></figcaption></figure>
 
 如果需要本文来了解显卡，那么不推荐购买二手显卡，二手显卡经过虚拟货币狂潮后水很深，小白别轻易碰。
 

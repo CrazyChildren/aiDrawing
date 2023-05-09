@@ -6,7 +6,7 @@
 
 python是一个脚本编程语言，AI技术大都是在这上面编写的，所以我们需要先下载这个软件，并且记住，版本之间可能不兼容，请下载具体的3.10.6版本，下载这类软件的方法都一样，在搜索引擎上直接搜这个软件名，进官方下载页面即可。
 
-![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=MDFhOTc0NmJiMzM4YzM3ZGM4NDFhMWFmNzIwZjc1MWRfb1ZYNURkUXRDSXNZelI0RzVuSE5CVHhxcHZHeGpoZnBfVG9rZW46WU1mS2J1aFBGb2R6YjV4TzZHRWNKYmhXbktlXzE2ODM2MTg1MjA6MTY4MzYyMjEyMF9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTM2OWViMjNjZDQ5YTI3OGZlNjA4NzI4MjQxYjI5NmVfRHJ3TXFXZVVZb1U1VXhmR2txT0Q1ME83NTV4UnpsTndfVG9rZW46T3ZxUWJwOThmb3RIVWZ4V3hDdmNueDR4bmRkXzE2ODM2MTg1MjA6MTY4MzYyMjEyMF9WNA)
+![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWQ3NTY0ZTBkYTljYzZjNmFiNWE3NDg1OWQxMjVlODNfcXZ5YnVHQm5EUFp6dXE5QWdiQXU4WVJZdkdSRGVVa0RfVG9rZW46WU1mS2J1aFBGb2R6YjV4TzZHRWNKYmhXbktlXzE2ODM2MjUzNzQ6MTY4MzYyODk3NF9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=MjlmMGYwZWRlYTIwNTg3ZjEyZmFkZGZhOTBjYTc3ZmNfQTJ1YjI5b0l5U1VrYUNPM3dhVFRraEh1NjhXVFBtOWFfVG9rZW46T3ZxUWJwOThmb3RIVWZ4V3hDdmNueDR4bmRkXzE2ODM2MjUzNzQ6MTY4MzYyODk3NF9WNA)
 
 比如python，第一个结果就是官方的，打开后拉到页面最下面file，下载自己平台的文件即可，需要注意mac和windows都有版本要求，我把要求和安装包都放下面了。windows平台最好下64位的installer，当然你的CPU架构需要是AMD64的，而不能是ARM的芯片。
 
@@ -17,7 +17,7 @@ python是一个脚本编程语言，AI技术大都是在这上面编写的，所
 
 点击安装包，接下来就是一路确定，然后安装就行，windows系统的记得把**python加入环境变量勾打上**
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 如果安装成功，打开终端（windows打开CMD或者powershell也可以），输入
 
@@ -27,13 +27,13 @@ python --version
 
 出现版本信息就代表安装成功，如果提示command not found就表示安装失败
 
-![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=NGNjMDNiZDJiZmQ2MWVjMGFmMjBhNTBkNTExNjliYWZfTzlSeW1yWjZKbFVveXpDckY2QWhDMGV2QTNsUExsNXdfVG9rZW46UHJHQWJuREhubzhLakh4d0hNMmNFcnJ5bmNnXzE2ODM2MTg2Njg6MTY4MzYyMjI2OF9WNA)
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 2. 安装git <a href="#h_624368619_3" id="h_624368619_3"></a>
 
 git是一个代码版本控制工具，也可以用来从网上下载代码，用git就能让你的软件保持最新并且方便下载其他插件。安装方法和前面类似，去官网下载安装包即可。
 
-![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=N2I3YjkyY2MxZjFmNWMxNjc3NGNjMDVhMjkwNzdmY2JfYkg5N0hkVXpVNVB5ZDRuaUVFTnZWdjhZcWNxdGRsUzhfVG9rZW46THpvdWJncklHb3hOTWh4Sk5oNGNkcDRJbmdjXzE2ODM2MTg2ODU6MTY4MzYyMjI4NV9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=Yzg4YjBjOTI5YzdkOTE2ZGYzZGI3NzQ0NjM4YTEyNDVfR1NTYXRXR2QxRWRlTE9lS1ozWURURTNPVzZXNzdTdWhfVG9rZW46UFV3cGJnZE5Cb3ZqM3F4anBabWNocFJwbkxjXzE2ODM2MTg2ODU6MTY4MzYyMjI4NV9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=YWUwOTE0OWRhM2U0ODZiNTRkYTFjNTNmZDlhMDczM2JfOHVSZGxVVTNiVmpWdE9aR3JvUjc5ckd4UHhPUEk0MzJfVG9rZW46TmxVdmIyVWVpb1Uzb054RzFUQWNVN0gyblh5XzE2ODM2MTg2ODU6MTY4MzYyMjI4NV9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=NDk3MWExMGQwMmY2NzcwYjdmMGVhYWY5N2U1Zjg0ZGZfQm1iYWo2bjhGZ3o1R1V5OWRQR3BnckpscTZGRmJxODNfVG9rZW46RlJHeWI2dTJpb2M4dWl4M2E5d2NiVDBwbkJmXzE2ODM2MTg2ODU6MTY4MzYyMjI4NV9WNA)
+![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=NGViMjhmMGU5MTQyN2I5NjY3NDMzMTdlNzdhZjZiYjlfcUdMSms4SEpjVUVrNFUxRkp3RlQ2eDZjVXM5QVphZTdfVG9rZW46THpvdWJncklHb3hOTWh4Sk5oNGNkcDRJbmdjXzE2ODM2MjU0MjE6MTY4MzYyOTAyMV9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=MzA4MDBiODc0NzQxOGYzZTMxZTcwNGY5Yjk2MzM4NTZfOXdGVmZ2ZldlbUQ1OUpIQlhtMFdNVTFiM2pOY2xwNTRfVG9rZW46UFV3cGJnZE5Cb3ZqM3F4anBabWNocFJwbkxjXzE2ODM2MjU0MjE6MTY4MzYyOTAyMV9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=MjY1Yjg3NTIwM2IwN2I3NWFjYjJmOGQxOGEyNTQ0MjRfWXZaYzZCZVBRelh1THRIVmVPOG8xRktKSGFwUlkxeU1fVG9rZW46TmxVdmIyVWVpb1Uzb054RzFUQWNVN0gyblh5XzE2ODM2MjU0MjE6MTY4MzYyOTAyMV9WNA)![](https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDQzZjkwOTJiZmNhNGE3ZGNjYWNiOWExNWQ2YWZkMWNfb2lxcnFBSW9ESHFKQzZ6SjB0eHJFZlB1eDkxaUQxUWRfVG9rZW46RlJHeWI2dTJpb2M4dWl4M2E5d2NiVDBwbkJmXzE2ODM2MjU0MjE6MTY4MzYyOTAyMV9WNA)
 
 macOS用户如果安装了homebrew还可以直接用命令安装：
 
@@ -83,3 +83,5 @@ source webui-macos-env.sh sh webui.sh
 启动脚本就会自动下载其他依赖，然后开始运行，最后点击本地运行链接就能打开网页享受绘图啦\~
 
 > 运行过程中不能关闭终端，否则程序会停止
+
+<figure><img src="https://z28pynubvc.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmMxZjRmNDNhZmZjZjQ2N2ExN2I4NDAwODBhOGVmMjNfMVM1U2d2MUVpV0lzS0ZjQjhxbUpWa0VvZFZqbEVVVXZfVG9rZW46Qm1xS2JMNWRWb3NNbW54NWV0aGNKWnRjbnFiXzE2ODM2MjU0NDU6MTY4MzYyOTA0NV9WNA" alt=""><figcaption></figcaption></figure>
